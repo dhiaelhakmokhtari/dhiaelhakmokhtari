@@ -17,24 +17,6 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 ![NetLogo](https://img.shields.io/badge/NetLogo-FF5733?style=for-the-badge)  
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23FF4081.svg?style=for-the-badge&logo=tableau&logoColor=white)  
 
-## 📌 Projects  
-
-Here are some of my key projects:  
-
-### 🏡 **Housing Price Prediction**  
-> Supervised learning model to estimate house prices using **EDA, feature selection, and regression models**.  
-
-### 📊 **Data Warehouse for Maghreb Climate Data**  
-> Built an **ETL pipeline** for structured climate data storage in **MySQL**, visualized with **Dash**.  
-
-### 🧠 **Aligning LLMs with Knowledge Graphs**  
-> Investigating how **LLMs can be guided by structured knowledge** to improve personalized learning.  
-
-### 🖋 **Arabic Handwritten Letter Recognition**  
-> Developed **CNNs for Arabic handwriting recognition**, integrated **SVM models** and built a GUI with **PyQt5**.  
-
-More projects are available in my [repositories](https://github.com/dhiaelhakmokhtari).  
-
 ## 🎤 Talks & Presentations  
 
 - 📌 **House Price Prediction Dataset Analysis** *(Kaggle Project)*  
