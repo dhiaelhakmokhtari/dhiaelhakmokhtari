@@ -2,8 +2,6 @@
 
 I'm a Master's student at **University of Paris-Saclay**, specializing in **Autonomic Systems**, with a deep passion for **Data Science and Artificial Intelligence**. My work spans various fields, from **multi-agent systems** to **parallel computing** and **LLM alignment with structured data**.  
 
-## 🚀 About Me  
-
 - 🎓 Currently pursuing my Master's degree at **Paris-Saclay**  
 - 🔬 Exploring **LLM alignment with Knowledge Graphs** and **Machine Learning applications**  
 - 🔭 Working on **Idea Propagation Models** and **Multi-Agent Systems**  
