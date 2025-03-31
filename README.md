@@ -11,7 +11,7 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 <img align="left" alt="Python" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/python.png" />
 <img align="left" alt="Java" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/java.png" />
 <img align="left" alt="R" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/r.png" />
-<img align="left" alt="C" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/c.png" />
+<img align="left" alt="C" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/letter-c.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/sql.png" />
 <img align="left" alt="Neo4j" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/Neo4j--Streamline-Svg-Logos.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
