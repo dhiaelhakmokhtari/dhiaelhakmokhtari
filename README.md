@@ -1,6 +1,6 @@
 # Hi there, I'm Dhia 👋  
 
-I'm a Master's student at **University of Paris-Saclay**, specializing in **Autonomic Systems**, with a deep passion for **Data Science, Machine Learning, and Knowledge Graphs**. My work spans various fields, from **multi-agent systems** to **parallel computing** and **LLM alignment with structured data**.  
+I'm a Master's student at **University of Paris-Saclay**, specializing in **Autonomic Systems**, with a deep passion for **Data Science and Artificial Intelligence**. My work spans various fields, from **multi-agent systems** to **parallel computing** and **LLM alignment with structured data**.  
 
 ## 🚀 About Me  
 
