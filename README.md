@@ -17,6 +17,7 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
 <img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
 
+<br />
 
 ##  Get in Touch  
 
