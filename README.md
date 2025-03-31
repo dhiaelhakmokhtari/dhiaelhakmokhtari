@@ -7,7 +7,7 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 - 🔭 Working on **Idea Propagation Models** and **Multi-Agent Systems**  
 - 🏆 Looking for **internship opportunities** to deepen my knowledge in **Data & AI**  
 
-## 🛠 Skills & Technologies  
+##  Skills & Technologies  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
@@ -17,7 +17,7 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 ![NetLogo](https://img.shields.io/badge/NetLogo-FF5733?style=for-the-badge)  
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23FF4081.svg?style=for-the-badge&logo=tableau&logoColor=white)  
 
-## 📫 Get in Touch  
+##  Get in Touch  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhia-mokhtari/)  
 - 📧 dhiaelhakmokhtari@gmail.com  
