@@ -5,7 +5,7 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 - 🎓 Currently pursuing my Master's degree at **Paris-Saclay**  
 - 🔬 Exploring **LLM alignment with Knowledge Graphs**  
 - 🔭 Working on **Idea Propagation Models** and **Multi-Agent Systems**  
-- 🏆 Looking for **internship opportunities** to deepen my knowledge in **Data & AI**  
+- 🏆 Looking for **internship opportunities** to deepen my knowledge in **Data & Artificial Intelligence**  
 
 ##  Skills & Technologies  
 
