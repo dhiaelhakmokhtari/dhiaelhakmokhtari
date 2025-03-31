@@ -9,13 +9,13 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 
 ##  Skills & Technologies  
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-%2300C853.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![NetLogo](https://img.shields.io/badge/NetLogo-FF5733?style=for-the-badge)  
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23FF4081.svg?style=for-the-badge&logo=tableau&logoColor=white) 
+<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
 
 ##  Get in Touch  
 
