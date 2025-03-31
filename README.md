@@ -17,18 +17,12 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 ![NetLogo](https://img.shields.io/badge/NetLogo-FF5733?style=for-the-badge)  
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23FF4081.svg?style=for-the-badge&logo=tableau&logoColor=white)  
 
-## 🎤 Talks & Presentations  
-
-- 📌 **House Price Prediction Dataset Analysis** *(Kaggle Project)*  
-- 📌 **Multi-Agent System for Territory Competition** *(NetLogo TD Project)*  
-- 📌 **Idea Propagation Model: A Computational Approach**  
-
 ## 📫 Get in Touch  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhia-mokhtari/)  
 - 📧 dhiaelhakmokhtari@gmail.com  
 
-I’m always happy to connect, collaborate, and exchange ideas. Feel free to reach out! 🚀  
+I’m always happy to connect, collaborate, and exchange ideas. Feel free to reach out!
 
 
 <!---
