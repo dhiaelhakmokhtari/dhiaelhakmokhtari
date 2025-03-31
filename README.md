@@ -15,7 +15,18 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 ![NoSQL](https://img.shields.io/badge/NoSQL-%2300C853.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![NetLogo](https://img.shields.io/badge/NetLogo-FF5733?style=for-the-badge)  
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23FF4081.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23FF4081.svg?style=for-the-badge&logo=tableau&logoColor=white) 
+
+<img align="left" alt="Python" width="26px" src="<a href="https://www.flaticon.com/free-icons/python-file" title="python file icons" />
+<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
 
 ##  Get in Touch  
 
