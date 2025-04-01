@@ -17,6 +17,7 @@ I'm a Master's student at **University of Paris-Saclay**, specializing in **Auto
 
 ##  Skills & Technologies  
 
+<img align="left" alt="TensorFlow" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/TensorFlow.png" />
 <img align="left" alt="Mongodb" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/jupyter-seeklogo.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/sql.png" />
 <img align="left" alt="Neo4j" width="26px" src="https://github.com/dhiaelhakmokhtari/dhiaelhakmokhtari/blob/main/img/Neo4j--Streamline-Svg-Logos.png" />
